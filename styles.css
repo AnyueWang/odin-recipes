@@ -1,0 +1,41 @@
+body {
+    background-color: #d2efd2;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+h1 {
+    background-color: #76b076;
+    color: #F0d3e1;
+    font-size: 50px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    margin-top: 50px;
+}
+
+.recipes {
+    background-color: #76b076;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+h2 {
+    background-color: #76b076;
+    color: #F0d3e1;
+    font-size: 30px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.words {
+    color: #9B5B7B;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.meal-pic {
+    padding-bottom: 50px;
+}
+
+/* colors: #F0D3E1  #76B076 #D2EFD2 #9B5B7B #2F702F */
